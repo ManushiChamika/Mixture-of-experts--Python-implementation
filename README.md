@@ -5,7 +5,7 @@
 ## 🎥 Video Tutorial: Introduction on MoE
 
 <div align="center">
-  <a href="https://github.com/ManushiChamika/Mixture-of-experts--Python-implementation/blob/main/MoE-intro-video/moe_intro.mp4?raw=true">
+  <a href="https://github.com/ManushiChamika/Mixture-of-experts--Python-implementation/blob/main/MoE-intro-video/?raw=true">
     <img src="MoE-intro-video/10.png" alt="Watch MoE Tutorial" width="800"/>
     <br>
     <img src="https://img.shields.io/badge/▶️_Watch_Video_Tutorial-blue?style=for-the-badge" alt="Watch Video"/>
