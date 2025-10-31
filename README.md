@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="MoE-intro-video/moe_implementation.mp4">
-    <img src="https://github.com/ManushiChamika/Mixture-of-experts--Python-implementation/tree/main/MoE-intro-video" alt="Watch Tutorial"/>
-  </a>
+  <a href="https://raw.githubusercontent.com/ManushiChamika/Mixture-of-experts--Python-implementation/main/MoE-intro-video/moe_implementation.mp4" target="_blank">
 </p>
 
 <details>
