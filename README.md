@@ -1,5 +1,35 @@
 # Mixture of Experts (MoE) Visualization Tool 🎯
 
+> Created by NotebookLM - Empowering AI Research and Development
+
+## 🎥 Video Tutorial: MoE Implementation Walkthrough
+
+<div align="center">
+  <video width="100%" controls>
+    <source src="MoE-intro-video/moe_implementation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+Watch the complete walkthrough of this MoE implementation, including:
+- Step-by-step code explanation
+- Visualization interpretations
+- Troubleshooting tips
+- Best practices for MoE implementations
+
+<details>
+<summary>📝 Video Timeline</summary>
+
+- 0:00 - Introduction
+- 0:40 - Environment Setup
+- 1:10 - Data & Training Log Structure
+- 2:10 - Code Walkthrough
+- 3:40 - Running the Script
+- 4:10 - Troubleshooting Tips
+- 4:50 - Interpreting the Outputs
+- 6:00 - Conclusion
+</details>
+
 ## What is this project about?
 
 This project provides visualization tools for understanding Mixture of Experts (MoE) models - a type of neural network architecture where multiple "expert" networks specialize in different inputs. Think of it as having multiple specialist doctors in a hospital: each expert handles specific types of cases, and a "router" directs patients to the most appropriate specialist.
