@@ -10,12 +10,6 @@
   </video>
 </div>
 
-Watch the complete walkthrough of this MoE implementation, including:
-- Step-by-step code explanation
-- Visualization interpretations
-- Troubleshooting tips
-- Best practices for MoE implementations
-
 ## What is this project about?
 
 This project provides visualization tools for understanding Mixture of Experts (MoE) models - a type of neural network architecture where multiple "expert" networks specialize in different inputs. Think of it as having multiple specialist doctors in a hospital: each expert handles specific types of cases, and a "router" directs patients to the most appropriate specialist.
