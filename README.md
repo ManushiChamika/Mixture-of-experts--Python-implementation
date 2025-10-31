@@ -4,11 +4,9 @@
 
 ## 🎥 Video Tutorial: Introduction on MoE
 
-<div align="center">
-  <video width="100%" controls>
-    <source src="MoE-intro-video/moe_implementation.mp4" type="video/mp4">
-  </video>
-</div>
+https://github.com/ManushiChamika/Mixture-of-experts--Python-implementation/tree/main/MoE-intro-video
+
+[Click here to download and watch the full tutorial video](MoE-intro-video/moe_implementation.mp4)
 
 ## What is this project about?
 
