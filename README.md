@@ -4,12 +4,12 @@
 ## 🎥 Video Tutorial: Introduction on MoE
 
 <p align="center">
-  <img src="MoE-intro-video/thumbnail.png" width="800" alt="Video Tutorial Thumbnail"/>
+  <img src="MoE-intro-video/10.png" width="800" alt="Video Tutorial Thumbnail"/>
 </p>
 
 <p align="center">
   <a href="MoE-intro-video/moe_implementation.mp4">
-    <img src="https://img.shields.io/badge/Watch%20Tutorial-Video%20▶-blue?style=for-the-badge&logo=github" alt="Watch Tutorial"/>
+    <img src="https://github.com/ManushiChamika/Mixture-of-experts--Python-implementation/tree/main/MoE-intro-video" alt="Watch Tutorial"/>
   </a>
 </p>
 
