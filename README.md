@@ -1,15 +1,16 @@
 # Mixture of Experts (MoE) Visualization Tool 🎯
 
+> 🤖 Created by NotebookLM - Empowering AI Research and Development
 
 ## 🎥 Video Tutorial: Introduction on MoE
 
-<p align="center">
-  <img src="MoE-intro-video/10.png" width="800" alt="Video Tutorial Thumbnail"/>
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/ManushiChamika/Mixture-of-experts--Python-implementation/main/MoE-intro-video/moe_implementation.mp4" target="_blank">
-</p>
+<div align="center">
+  <a href="https://github.com/ManushiChamika/Mixture-of-experts--Python-implementation/blob/main/MoE-intro-video/moe_implementation.mp4?raw=true">
+    <img src="MoE-intro-video/10.png" alt="Watch MoE Tutorial" width="800"/>
+    <br>
+    <img src="https://img.shields.io/badge/▶️_Watch_Video_Tutorial-blue?style=for-the-badge" alt="Watch Video"/>
+  </a>
+</div>
 
 <details>
 <summary>🎯 What You'll Learn</summary>
