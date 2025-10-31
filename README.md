@@ -3,9 +3,27 @@
 
 ## 🎥 Video Tutorial: Introduction on MoE
 
-https://github.com/ManushiChamika/Mixture-of-experts--Python-implementation/tree/main/MoE-intro-video
+<p align="center">
+  <img src="MoE-intro-video/thumbnail.png" width="800" alt="Video Tutorial Thumbnail"/>
+</p>
 
-[Click here to download and watch the full tutorial video](MoE-intro-video/moe_implementation.mp4)
+<p align="center">
+  <a href="MoE-intro-video/moe_implementation.mp4">
+    <img src="https://img.shields.io/badge/Watch%20Tutorial-Video%20▶-blue?style=for-the-badge&logo=github" alt="Watch Tutorial"/>
+  </a>
+</p>
+
+<details>
+<summary>🎯 What You'll Learn</summary>
+
+- Environment setup and dependencies
+- Understanding MoE architecture
+- Visualizing router decisions
+- Interpreting expert utilization
+- Troubleshooting common issues
+- Best practices and tips
+
+</details>
 > Created by NotebookLM - Empowering AI Research and Development
 
 ## What is this project about?
